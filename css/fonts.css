@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'MgOpenModata';
+    src: url('../fonts/MgOpenModataRegular.eot');
+    src: local('☺'), url('../fonts/MgOpenModataRegular.woff') format('woff'), 
+    url('../fonts/MgOpenModataRegular.ttf') format('truetype'), 
+    url('../fonts/MgOpenModataRegular.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'BigNoodleTitling';
+    src: url('../fonts/Big Noodle Titling.eot');
+    src: local('☺'), url('../fonts/Big Noodle Titling.woff') format('woff'), 
+    url('../fonts/Big Noodle Titling.ttf') format('truetype'), 
+    url('../fonts/Big Noodle Titling.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
